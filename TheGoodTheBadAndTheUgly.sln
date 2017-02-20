@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGoodTheBadAndTheUgly", "TheGoodTheBadAndTheUgly\TheGoodTheBadAndTheUgly.csproj", "{C4BE578C-536D-4893-BE72-3B404F727538}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Miscelaneous", "Miscelaneous", "{72D86249-6DF2-4BA5-95F2-A589F5F3EE33}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheGoodTheBadAndTheUglyTests", "TheGoodTheBadAndTheUglyTests\TheGoodTheBadAndTheUglyTests.csproj", "{877AC1C1-072E-4919-B07C-6AA26EECBA32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4BE578C-536D-4893-BE72-3B404F727538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4BE578C-536D-4893-BE72-3B404F727538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4BE578C-536D-4893-BE72-3B404F727538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4BE578C-536D-4893-BE72-3B404F727538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877AC1C1-072E-4919-B07C-6AA26EECBA32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877AC1C1-072E-4919-B07C-6AA26EECBA32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877AC1C1-072E-4919-B07C-6AA26EECBA32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877AC1C1-072E-4919-B07C-6AA26EECBA32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
