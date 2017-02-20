@@ -25,4 +25,4 @@ Location | Good/Bad | Summary | Comment
 ------------ | ------------- | ------------- | -------------
 Line 96 | Good | Regex on multiple lines | Regex is difficult to interpret at the best of times, so its good that some attempt has been made to make it clearer
 
-It is up to you hiw long you give this review but please bote your comments in an order that coincides with the lines of code you are commenting on and bring them with you to a meeting to go over your findings.
+It is up to you how long you give this review but please note your comments in an order that coincides with the lines of code you are commenting on and bring them with you to a meeting to go over your findings.
