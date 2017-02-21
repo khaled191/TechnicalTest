@@ -12,7 +12,7 @@ Because we were already stretched we decided to outsource the development of thi
 
 The code you now see is his final submission, and before payment is released to him we need you to carry out a code review of his work.
 
-In the interest of providing positive, as well as negative feedback we need you to list what is good about the code, as well as what may be wrong with it. You should focus your code review on (but not limit it to) the program.cs file and unit test files.
+In the interest of providing positive, as well as negative feedback we need you to list what is good about the code, as well as what may be wrong with it and also suggest how you would do it differently and why. You should focus your code review on (but not limit it to) the program.cs file and unit test files.
 
 Each comment should include the following detail
 * The location of the code you are commenting on (Line Number Range or class + method name)
