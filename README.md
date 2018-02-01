@@ -6,7 +6,7 @@ We had a requirement to create a small utility which would take a web site url, 
 
 In addition we needed the code to be sufficiently unit tested, and while it is likely to be executed as a command line utility in the short term, it is essential that it be easy to convert into a web service in the near future.
 
-Because we were already stretched we decided to outsource the development of this work to a remote developer (Bob) that we found on 419Eaters.com. 
+Because we were already stretched we decided to outsource the development of this work to a remote developer (Bob) that we found on Frelancer.com. 
 
 **In Bobs initial submission to us he had missunderstood the requirements and implemented a filter facility that we had not asked for. We are told he has since removed this feature.**
 
